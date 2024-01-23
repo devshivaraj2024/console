@@ -1,0 +1,7 @@
+D:\BBProject\Own\console\example\bin\Debug\example.exe.config
+D:\BBProject\Own\console\example\bin\Debug\example.exe
+D:\BBProject\Own\console\example\bin\Debug\example.pdb
+D:\BBProject\Own\console\example\obj\Debug\example.csproj.AssemblyReference.cache
+D:\BBProject\Own\console\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+D:\BBProject\Own\console\example\obj\Debug\example.exe
+D:\BBProject\Own\console\example\obj\Debug\example.pdb
